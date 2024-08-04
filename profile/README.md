@@ -15,9 +15,3 @@
 ##  Overview
 
 Stigma is a C# based emulator developed as a Proof of Concept (POC) for reverse engineering the Dofus game 2.0.0 version. Leveraging .NET ecosystem, it emphasizes code quality, maintainability, and scalability. With automated CI/CD pipelines via GitHub Actions and a modular, multi-assembly architecture, Stigma offers cutting-edge features while ensuring reliability and ease of use.
-
-##  License
-
-This project is protected under the [MIT](https://choosealicense.com/licenses/mit) License. For more details, refer to the [LICENSE](../../LICENSE.md) file.
-
----
